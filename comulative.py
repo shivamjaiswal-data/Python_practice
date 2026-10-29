@@ -1,0 +1,3 @@
+def comulative(numbers):
+    result= []
+    
