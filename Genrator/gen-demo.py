@@ -21,3 +21,6 @@ gen  = gem_demo()
 for i in gen :
     print(i)
 
+
+
+
