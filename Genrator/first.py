@@ -8,8 +8,9 @@ x  =  range (100000)
 
 
 #  in List what we are going to do it will take more memory 
-l = [x for x in range(10000)]
-for i in l :
-    print(i**2)
+# # l = [x for x in range(10000)]
+# for i in l :
+#     print(i**2)
 import sys
-print(sys.getsizeof(l))
+print(sys.getsizeof(x))
+
